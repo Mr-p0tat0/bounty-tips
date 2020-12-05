@@ -9,7 +9,7 @@ https://github.com/WebGoat/WebGoat
 
 https://github.com/WebGoat/WebGoat-Legacy
 
-#$ Zvuldirll vulnerability practice platform:
+## Zvuldirll vulnerability practice platform:
 
 https://github.com/710leo/ZVulDrill
 
